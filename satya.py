@@ -271,40 +271,4 @@
 ##    a+=1
 ##    if prime(a):
 ##        print(a,'is a prime')
-        
-
-def fun(a):
-    l=0
-    for i in a:
-        l+=1
-    return(l)
-
-
-
-
-
-
-
-
-#EMOJI'S CODE
-##print("\U0001F600")
-##print("\U0001F618")
-##print("\U0001F917")
-##print("\U0001F62A")
-##print("\U0001F637")
-##print("\U0001F612")
-##print("\U0001F62B")
-
-
-
-
-
-
-
-
-
     
-
-
-
-
